@@ -20,7 +20,7 @@ npm (Node Package Manager)
 
 ### Installation
 1. Clone the repository:
-    git clone https://github.com/Abdulrahman843/react-hello.git
+    git clone https://github.com/Abdulrahman843/user-details-and-shopping-cart.git
 2. Navigate to the project directory:
     cd react-hello
 3. Install dependencies:
